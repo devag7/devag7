@@ -25,7 +25,7 @@
 
 ```javascript
 const developer = {
-    name: "Dev Agarwal",
+    name: "Dev Agarwalla",
     currentMission: "Building scalable web applications",
     location: "India 🇮🇳",
     status: "Ready for deployment",
@@ -199,7 +199,7 @@ git push origin innovation
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devagarwalla2016@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devag7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devagarwalla)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/devag7?tab=repositories)
 
 </div>
