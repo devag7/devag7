@@ -10,7 +10,7 @@
 ║   ██████╔╝███████╗ ╚████╔╝ ██║  ██║╚██████╔╝   ██║          ║
 ║   ╚═════╝ ╚══════╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝    ╚═╝          ║
 ║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Python+Automation+Expert;Cybersecurity+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -18,6 +18,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=devag7&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
+this is the change
 
 ---
 
