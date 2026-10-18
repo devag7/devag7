@@ -1,8 +1,10 @@
 # Dev Agarwalla
 
-**Full-stack and applied AI engineer in Bengaluru, India.** I'm a Technical Delivery Associate at Falcon Reality, an AI product company, and I build and ship my own products as [DevShipIt](https://devshipit.com).
+**Founder, [AEOLedger](https://aeoledger.com) — answer engine optimization (AEO) for B2B SaaS.**
 
-[me.devshipit.com](https://me.devshipit.com) | [devshipit.com](https://devshipit.com) | [LinkedIn](https://www.linkedin.com/in/devagarwalla) | [npm](https://www.npmjs.com/package/linkedin-mcp-tools) | hello@devshipit.com
+AEOLedger measures how often ChatGPT, Claude, Perplexity and Gemini name a software company for real buyer questions, then fixes why they don't: crawler access, rendering, structured data and the pages they cite. I'm a full-stack and applied AI engineer in Bengaluru, India, and I also build and ship my own products as [DevShipIt](https://devshipit.com).
+
+[aeoledger.com](https://aeoledger.com) | [me.devshipit.com](https://me.devshipit.com) | [devshipit.com](https://devshipit.com) | [LinkedIn](https://www.linkedin.com/in/devagarwalla) | [npm](https://www.npmjs.com/package/linkedin-mcp-tools) | hello@devshipit.com
 
 ## What I've shipped
 
@@ -16,7 +18,7 @@
 
 ## Experience
 
-- **Falcon Reality**, Technical Delivery Associate, Sep 2026 to now. Joined as an intern and moved to full-time within two months. I turn operations workflows into product specs, user stories and MVP scope for an AI product.
+- **[AEOLedger](https://aeoledger.com)**, Founder, Oct 2026 to now. An answer engine optimization (AEO) agency for B2B SaaS: measurement first, reported as "named in X of N" with sample sizes, then the technical and content fixes.
 - **Cyber Secure India**, Full-stack Developer Intern, Jan to Jun 2025. Shipped three MERN applications to production and built 15+ REST APIs with JWT authentication and role-based access.
 - **GDSC**, Student Developer, 2023 to 2024. Ran technical workshops and coding sessions.
 
@@ -31,6 +33,8 @@ Studying for an MSc in Data Science and AI at BITS Pilani.
 TypeScript, React, Next.js, Node.js, NestJS, Express, PostgreSQL, MongoDB, Redis, Supabase, Docker, Tailwind CSS, and MCP servers for AI assistants.
 
 ## Work with me
+
+AI visibility for B2B SaaS: start with a free [AI Visibility Snapshot](https://aeoledger.com/snapshot/) from AEOLedger.
 
 I build websites and web apps for property agents, agencies and small businesses through [DevShipIt](https://devshipit.com/services/). Every project is priced by a written quote before work starts. Email **hello@devshipit.com**.
 
